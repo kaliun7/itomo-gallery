@@ -954,7 +954,7 @@ const products = [
 const categories = [
     {
         name   : '',
-        id     : '',
+        id     : 'sreburni grivni',
         slug   : '',
         oldSlugs: ['/bangles_4.html', '/bangles_3.htm', '/bangles2.htm', '/bangles.htm', '/bangles_5.html'],
 
