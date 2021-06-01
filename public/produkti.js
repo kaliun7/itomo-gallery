@@ -3162,7 +3162,7 @@ const products = [
 // No9
 {
     price      : ,
-    name       : '',
+    name       : 'hjhjh',
     id         : '',
     slug       : '',
     oldSlug    : '',
