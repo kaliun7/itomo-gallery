@@ -6,7 +6,7 @@ const products = [
         name       : 'Сребърна мъжка гривна с кожа',
         id         : '20GRV',
         slug       : 'sreburna-mujka-grivna-s-koja',
-        oldSlug    : '/large/20grv.html',
+        oldSlug    : '/large/20grv.html', 
         desc       : '',
         sku        : '20GRV',
         category   : 'sreburni grivni',
