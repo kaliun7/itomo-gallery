@@ -1198,53 +1198,184 @@ const products = [
 },
 // No13
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
+    price      : 719,
+    name       : 'Златен пръстен - бяло и жълто злато (14k):',
+    id         : '13GL',
+    slug       : 'zlaten-prusten-byalo-i-zhulto-zlato-14k',
+    oldSlug    : 'Gold/13GL.html',
+    desc       : '-син топаз и брилянт 0,1ct - SI2 H - цена: 719 лв- сапфир и брилянт0,1ct- SI2 H- цена:789 лв (цената на пръстена може да варира според качеството и вида на камъка )',
+    sku        : '13GL',
     category   : 'zlatni bizhuta',
     attributes : null,
-    image      : ''
+    image      : '13gl.jpg'
 },
 // No14
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
+    price      : 698,
+    name       : 'Златен пръстен - бяло и жълто злато (14k):',
+    id         : '14GL',
+    slug       : 'zlaten-prusten-byalo-i-zhulto-zlato-14k',
+    oldSlug    : '/Gold/14GL.html',
+    desc       : '-аметист
+-брилянти 2бр. - VS, F/G, 0,04ct общо  По поръчка може да се изработи със син топаз, аквамарин, турмалин.',
+    sku        : '14GL',
     category   : 'zlatni bizhuta',
     attributes : null,
-    image      : ''
+    image      : '14gl.jpg'
 },
 // No15
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
+    price      : 525,
+    name       : 'Златна игла за вратовръзка без камък',
+    id         : '15gl',
+    slug       : 'zlatna-igla-za-vratovruzka-bez-kamuk',
+    oldSlug    : '/Gold/Pin.html',
+    desc       : 'Може да се изработи с камък по избор Крайната цена зависи от големината вида и качеството на камъка,'
+    sku        : '15gl',
     category   : 'zlatni bizhuta',
     attributes : null,
-    image      : ''
+    image      : '15gl.jpg'
+},
+// No16
+{
+    price      : 749,
+    name       : 'Златно колие Лилия (висулка) 3 брилянта-SI 1 -FG - 0.1k',
+    id         : '17GL',
+    slug       : 'zlatno-kolie-liliya-visulka-3-brilyanta-si-1-fg-01k',
+    oldSlug    : '/Gold/Lilia.html',
+    desc       : '25 мм-диаметър',
+    sku        : '17GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '17gl.jpg'
+},
+// No17
+{
+    price      : 769,
+    name       : 'Златен пръстен с Танзанит',
+    id         : '18GL',
+    slug       : 'zlaten-prusten-s-tanzanit',
+    oldSlug    : '/Gold/tanzanitring.html',
+    desc       : 'брилянт-SI 1 -FG - 0.02 k',
+    sku        : '18GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '18gl.jpg'
+},
+// No18
+{
+    price      : 469,
+    name       : 'Златен пръстен с Цитрин',
+    id         : '20GL',
+    slug       : 'zlaten-prusten-s-citrin',
+    oldSlug    : '/Gold/20zring.html',
+    desc       : 'брилянт-SI 1 -FG - 0.02 k',
+    sku        : '20GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '20gl.jpg'
+},
+// No1
+{
+    price      : 488,
+    name       : 'Ръчно изработено сребърно колие с масивен синджир (58см)',
+    id         : '5KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-masiven-sindzhir-58sm',
+    oldSlug    : '/large/largekl/kl5.htm',
+    desc       : '',
+    sku        : '5KL',
+    category   : 'sreburni-kolieta',
+    attributes : null,
+    image      : '5kl.jpg'
+},
+// No9
+{
+    price      : 155,
+    name       : 'Ръчно изработено сребърно колие с чемширово дърво и кубични циркони',
+    id         : '23KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-chemshirovo-durvo-i-kubichni-cirkoni',
+    oldSlug    : '/large/largekl/kl23.htm',
+    desc       : '',
+    sku        : '23KL',
+    category   : 'sreburni-kolieta',
+    attributes : null,
+    image      : '23kl.jpg'
+},
+// No9
+{
+    price      : 135,
+    name       : 'Сребърно колие с емайли от Лазурит и Яспис',
+    id         : '24KL',
+    slug       : 'sreburno-kolie-s-emajli-ot-lazurit-i-yaspis',
+    oldSlug    : '/large/largekl/kl24.htm',
+    desc       : '',
+    sku        : '24KL',
+    category   : 'sreburni-kolieta',
+    attributes : null,
+    image      : '24kl.jpeg'
+},
+// No9
+{
+    price      : 468,
+    name       : 'Сребърно колие -ръчна изработка',
+    id         : '25KL',
+    slug       : 'sreburno-kolie-ruchna-izrabotka',
+    oldSlug    : '/large/largekl/kl25.htm',
+    desc       : '',
+    sku        : '25KL',
+    category   : 'sreburni-kolieta',
+    attributes : null,
+    image      : '25kl.jpg'
+},
+// No9
+{
+    price      : 99,
+    name       : 'Сребърно колие с естествена кожа',
+    id         : '26KL',
+    slug       : 'sreburno-kolie-s-estestvena-kozha',
+    oldSlug    : '/large/largekl/kl26.htm',
+    desc       : '',
+    sku        : '26KL',
+    category   : 'sreburni-kolieta',
+    attributes : null,
+    image      : '26kl.jpg'
+},
+// No9
+{
+    price      : 189,
+    name       : 'Ръчно изработено сребърно колие',
+    id         : '27KL',
+    slug       : 'sreburno-kolie-s-estestvena-kozha',
+    oldSlug    : '/large/largekl/kl27.html',
+    desc       : '',
+    sku        : '27KL',
+    category   : 'sreburni-kolieta',
+    attributes : null,
+    image      : '27kl.jpg'
+},
+// No9
+{
+    price      : 45,
+    name       : 'Ръчно изработено сребърно колие с кожа',
+    id         : '7KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-kozha',
+    oldSlug    : '/large/largekl/kl7.htm',
+    desc       : '',
+    sku        : '7KL',
+    category   : 'sreburni-kolieta',
+    attributes : null,
+    image      : '7kl.jpg'
 },
 // No9
 {
     price      : ,
     name       : '',
-    id         : '',
+    id         : '8KL',
     slug       : '',
     oldSlug    : '',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '8KL',
+    category   : 'sreburni-kolieta',
     attributes : null,
     image      : ''
 },
@@ -1257,7 +1388,7 @@ const products = [
     oldSlug    : '',
     desc       : '',
     sku        : '',
-    category   : '',
+    category   : 'sreburni-kolieta',
     attributes : null,
     image      : ''
 },
@@ -1270,137 +1401,7 @@ const products = [
     oldSlug    : '',
     desc       : '',
     sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    category   : 'sreburni-kolieta',
     attributes : null,
     image      : ''
 },
