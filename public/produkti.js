@@ -1196,7 +1196,267 @@ const products = [
     attributes : null,
     image      : '12gl.jpg'
 },
-// No13
+// No9
+{
+    price      : null,
+    name       : 'Златен пръстен - бяло и жълто злато (14k):',
+    id         : '13GL',
+    slug       : 'zlaten-prusten-byalo-i-zhulto-zlato-14k',
+    oldSlug    : '/Gold/13GL.html',
+    desc       : '-син топаз и брилянт 0,1ct- SI2 H - цена: 719 лв - сапфир и брилянт0,1ct- SI2 H- цена:789 лв (цената на пръстена може да варира според качеството и вида на камъка )',
+    sku        : '13GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '13gl.jpg'
+},
+// No9
+{
+    price      : 698,
+    name       : 'Златен пръстен - бяло и жълто злато (14k):',
+    id         : '14GL',
+    slug       : 'zlaten-prusten-byalo-i-zhulto-zlato-14k',
+    oldSlug    : '/Gold/14GL.html',
+    desc       : 'Златен пръстен - бяло и жълто злато (14k): -аметист -брилянти 2бр. - VS, F/G, 0,04ct общо  По поръчка може да се изработи със син топаз, аквамарин, турмалин.',
+    sku        : '14GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '14gl.jpg'
+},
+// No9
+{
+    price      : 525,
+    name       : 'Златна игла за вратовръзка',
+    id         : '15GL',
+    slug       : 'zlatna-igla-za-vratovruzka',
+    oldSlug    : '/Gold/Pin.html',
+    desc       : 'Може да се изработи с камък по избор',
+    sku        : '15GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '15gl.jpg'
+},
+// No9
+{
+    price      : 749,
+    name       : 'Златно колие Лилия (висулка) 3',
+    id         : '17GL',
+    slug       : 'zlatno-kolie-liliya-visulka-3',
+    oldSlug    : '/Gold/Lilia.html',
+    desc       : 'брилянта-SI 1 -FG - 0.1k 25 мм-диаметър',
+    sku        : '17GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '17gl.jpg'
+},
+// No9
+{
+    price      : 769,
+    name       : 'Златен пръстен с Танзанит',
+    id         : '18GL',
+    slug       : 'zlaten-prusten-s-tanzanit',
+    oldSlug    : '/Gold/tanzanitring.html',
+    desc       : 'брилянт-SI 1 -FG - 0.02 k',
+    sku        : '18GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '18gl.jpg'
+},
+// No9
+{
+    price      : 469,
+    name       : 'Златен пръстен с Цитрин',
+    id         : '20GL',
+    slug       : 'zlaten-prusten-s-citrin',
+    oldSlug    : '/Gold/20zring.html',
+    desc       : 'брилянт-SI 1 -FG - 0.02 k',
+    sku        : '20GL',
+    category   : 'zlatni bizhuta',
+    attributes : null,
+    image      : '20gl.jpg'
+},
+// No9
+{
+    price      : 488,
+    name       : 'Ръчно изработено сребърно колие с масивен синджир (58см)',
+    id         : '5KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-masiven-sindzhir-58sm',
+    oldSlug    : '/large/largekl/kl5.htm',
+    desc       : '',
+    sku        : '5KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '5kl.jpg'
+},
+// No9
+{
+    price      : 155 ,
+    name       : 'Ръчно изработено сребърно колие с чемширово дърво и кубични циркони',
+    id         : '23KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-chemshirovo-durvo-i-kubichni-cirkoni',
+    oldSlug    : '/large/largekl/kl23.htm',
+    desc       : '',
+    sku        : '23KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '23kl.jpg'
+},
+// No9
+{
+    price      : 135 ,
+    name       : 'Сребърно колие с емайли от Лазурит и Яспис',
+    id         : '24KL',
+    slug       : 'sreburno-kolie-s-emajli-ot-lazurit-i-yaspis',
+    oldSlug    : '/large/largekl/kl24.htm',
+    desc       : '',
+    sku        : '24KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '24kl.jpg'
+},
+// No9
+{
+    price      : 468,
+    name       : 'Сребърно колие -ръчна изработка',
+    id         : '25KL',
+    slug       : 'sreburno-kolie-ruchna-izrabotka',
+    oldSlug    : '/large/largekl/kl25.htm',
+    desc       : '',
+    sku        : '25KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '25kl.jpg'
+},
+// No9
+{
+    price      : 99,
+    name       : 'Сребърно колие с естествена кожа',
+    id         : '26KL',
+    slug       : 'sreburno-kolie-s-estestvena-kozha',
+    oldSlug    : '/large/largekl/kl26.htm',
+    desc       : '',
+    sku        : '26KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '26kl.jpg'
+},
+// No9
+{
+    price      : 189,
+    name       : 'Ръчно изработено сребърно колие',
+    id         : '27KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie',
+    oldSlug    : '/large/largekl/kl27.html',
+    desc       : '',
+    sku        : '27KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '27kl.jpg'
+},
+// No9
+{
+    price      : 45,
+    name       : 'Ръчно изработено сребърно колие с кожа',
+    id         : '7KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-kozha',
+    oldSlug    : '/large/largekl/kl7.htm',
+    desc       : '',
+    sku        : '7KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '7kl.jpg'
+},
+// No9
+{
+    price      : 98,
+    name       : 'Ръчно изработено сребърно колие със седеф - 40 мм диаметър',
+    id         : '8KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-sus-sedef-40-mm-diametur',
+    oldSlug    : '/large/largekl/kl8.htm',
+    desc       : '',
+    sku        : '8KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '8kl.jpg'
+},
+// No9
+{
+    price      : 135,
+    name       : 'Ръчно изработено сребърно колие със слонова кост и естествена кожа',
+    id         : '9KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-sus-slonova-kost-i-estestvena-kozha',
+    oldSlug    : '/large/largekl/kl9.htm',
+    desc       : '',
+    sku        : '9KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '9kl.jpg'
+},
+// No9
+{
+    price      : 74,
+    name       : 'Ръчно изработено сребърно колие с естествена кожа',
+    id         : '10KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-estestvena-kozha',
+    oldSlug    : '/large/nec10.htm',
+    desc       : '',
+    sku        : '10KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '10kl.jpg'
+},
+// No9
+{
+    price      : 129,
+    name       : 'Ръчно изработено сребърно колие с емайли',
+    id         : '11KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-emajli',
+    oldSlug    : '/large/nec11.htm',
+    desc       : '',
+    sku        : '11KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '11kl.jpg'
+},
+// No9
+{
+    price      : 51,
+    name       : 'Ръчно изработено сребърно колие с естествена кожа',
+    id         : '12 KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-emajli',
+    oldSlug    : '/large/nec12.htm',
+    desc       : '',
+    sku        : '12 KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : ''
+},
+// No9
+{
+    price      : 51,
+    name       : 'Ръчно изработено сребърно колие с естествена кожа',
+    id         : '12KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-estestvena-kozha',
+    oldSlug    : '/large/nec12.htm',
+    desc       : '',
+    sku        : '12KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : '12kl.jpg'
+},
+// No9
+{
+    price      : 135,
+    name       : 'Ръчно изработено сребърно колие с естествена кожа',
+    id         : '13KL',
+    slug       : 'ruchno-izraboteno-sreburno-kolie-s-estestvena-kozha',
+    oldSlug    : '/large/nec13.htm',
+    desc       : '',
+    sku        : '13KL',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : ''
+},
+// No9
 {
     price      : ,
     name       : '',
@@ -1205,737 +1465,917 @@ const products = [
     oldSlug    : '',
     desc       : '',
     sku        : '',
-    category   : 'zlatni bizhuta',
+    category   : 'sreburni kolieta',
     attributes : null,
     image      : ''
+},
+// No9
+{
+    price      : ,
+    name       : '',
+    id         : '',
+    slug       : '',
+    oldSlug    : '',
+    desc       : '',
+    sku        : '',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : ''
+},
+// No9
+{
+    price      : ,
+    name       : '',
+    id         : '',
+    slug       : '',
+    oldSlug    : '',
+    desc       : '',
+    sku        : '',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : ''
+},
+// No9
+{
+    price      : ,
+    name       : '',
+    id         : '',
+    slug       : '',
+    oldSlug    : '',
+    desc       : '',
+    sku        : '',
+    category   : 'sreburni kolieta',
+    attributes : null,
+    image      : ''
+},
+// No9
+{
+    price      : ,
+    name       : '',
+    id         : '',
+    slug       : '',
+    oldSlug    : '',
+    desc       : '',
+    sku        : '',
+    category   : '',
+    attributes : null,
+    image      : ''
+},
+// No9
+{
+    price      : ,
+    name       : '',
+    id         : '',
+    slug       : '',
+    oldSlug    : '',
+    desc       : '',
+    sku        : '',
+    category   : '',
+    attributes : null,
+    image      : ''
+},
+// No9
+{
+    price      : ,
+    name       : '',
+    id         : '',
+    slug       : '',
+    oldSlug    : '',
+    desc       : '',
+    sku        : '',
+    category   : '',
+    attributes : null,
+    image      : ''
+},
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+// 
+
+// No13
+{
+    price      : 679,
+    name       : 'Брачни халки от титан и злато (14k)',
+    id         : '1TG',
+    slug       : 'brachni-halki-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/1tg.htm',
+    desc       : '',
+    sku        : '1TG',
+    category   : 'bijuta ot titan i zlato',
+    attributes : null,
+    image      : '1tg.jpg'
+},
+// No13
+{
+    price      : 784,
+    name       : 'Ръчно изравотено колие от титан и злато (14k)',
+    id         : '2TG',
+    slug       : 'ruchno-izravoteno-kolie-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/2tg.htm',
+    desc       : '- брилянти (2бр.)-SI 1-F -0.05к.',
+    sku        : '2TG',
+    category   : 'bijuta ot titan i zlato',
+    attributes : null,
+    image      : '2tg.jpg'
+},
+// No13
+{
+    price      : 449,
+    name       : 'Комбинация от титан, злато (14k) и сребро (патинирано)',
+    id         : '3TG',
+    slug       : 'kombinaciya-ot-titan-zlato-14k-i-srebro-patinirano',
+    oldSlug    : '/Titanium/3tg.htm',
+    desc       : '',
+    sku        : '3TG',
+    category   : 'bijuta ot titan i zlato',
+    attributes : null,
+    image      : '3tg.jpg'
+},
+// No13
+{
+    price      : 608,
+    name       : 'Пръстен, обици и колие от титан, злато - 14k и брилянти',
+    id         : '4TG',
+    slug       : 'prusten-obici-i-kolie-ot-titan-zlato-14k-i-brilyanti',
+    oldSlug    : '/Titanium/4tg.htm',
+    desc       : '',
+    sku        : '4TG',
+    category   : 'bijuta ot titan i zlato',
+    attributes : null,
+    image      : '4tg.jpg'
+},
+// No13
+{
+    price      : 468,
+    name       : 'Титан, злато - 14k и брилянт',
+    id         : '5TG',
+    slug       : 'titan-zlato-14k-i-brilyant',
+    oldSlug    : '/Titanium/5tg.htm',
+    desc       : '',
+    sku        : '5TG',
+    category   : 'bijuta ot titan i zlato',
+    attributes : null,
+    image      : '5tg.jpg'
+},
+// No13
+{
+    price      : 586,
+    name       : 'Титан, злато (14k) и брилянти (2 бр.)',
+    id         : '6TG',
+    slug       : 'titan-zlato-14k-i-brilyanti-2-br',
+    oldSlug    : '/Titanium/6tg.htm',
+    desc       : '',
+    sku        : '6TG',
+    category   : 'bijuta ot titan i zlato',
+    attributes : null,
+    image      : '6tg.jpg'
+},
+// No13
+{
+    price      : 898,
+    name       : 'Пръстен отТитан, злато (14k) и брилянти (2 бр.)',
+    id         : '7TG',
+    slug       : 'prusten-ottitan-zlato-14k-i-brilyanti-2-br',
+    oldSlug    : '/Titanium/7tg.htm',
+    desc       : '-0.06 к - SI-F/G',
+    sku        : '7TG',
+    category   : 'bijuta ot titan i zlato',
+    attributes : null,
+    image      : '7tg.jpg'
 },
 // No14
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 840,
+    name       : 'Титан, злато - 14k и брилянт - 2,5 mm',
+    id         : '8TG',
+    slug       : 'titan-zlato-14k-i-brilyant-25-mm',
+    oldSlug    : '/Titanium/8tg.html',
     desc       : '',
-    sku        : '',
-    category   : 'zlatni bizhuta',
+    sku        : '8TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '8tg.jpg'
 },
 // No15
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 860,
+    name       : 'Пръстен от Титан, злато (14k) и брилянт (2,5 mm)',
+    id         : '9TG',
+    slug       : 'prusten-ot-titan-zlato-14k-i-brilyant-25-mm',
+    oldSlug    : '/Titanium/9tg.html',
     desc       : '',
-    sku        : '',
-    category   : 'zlatni bizhuta',
+    sku        : '9TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '9tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 1037,
+    name       : 'Титан, злато (14k) и брилянт (2,9 mm)',
+    id         : '10TG',
+    slug       : 'titan-zlato-14k-i-brilyant-29-mm',
+    oldSlug    : '/Titanium/10tg.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '10TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '10tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 1154,
+    name       : 'Титан, платина и брилянт (2,5 mm)',
+    id         : '11TG',
+    slug       : 'titan-platina-i-brilyant-25-mm',
+    oldSlug    : '/Titanium/11tg.html',
+    desc       : 'ширина на пръстена - 12 mm',
+    sku        : '11TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '11tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 841,
+    name       : 'Титан, сребро, злато ( 14k) и брилянт (2,5 mm)',
+    id         : '12TG',
+    slug       : 'titan-srebro-zlato-14k-i-brilyant-25-mm',
+    oldSlug    : '/Titanium/12tg.html',
+    desc       : 'ширина на пръстена - 11 mm',
+    sku        : '12TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '12tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 968,
+    name       : 'Ръчно изработена брошка от титан и злато с брилянт (2,2mm)',
+    id         : '13TG',
+    slug       : 'ruchno-izrabotena-broshka-ot-titan-i-zlato-s-brilyant-22mm',
+    oldSlug    : '/Titanium/brooch5_titan.html',
+    desc       : 'диаметър: 55/45mm',
+    sku        : '13TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '13tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 645,
+    name       : 'Обици от титан и злато (14k)',
+    id         : '14TG',
+    slug       : 'obici-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/14TG.html',
+    desc       : 'диаметър - 19мм, ширина - 10мм',
+    sku        : '14TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '14tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 1546,
+    name       : 'Обици от титан и злато (14к), брилянти - 2,3мм и 1,8мм',
+    id         : '15TG',
+    slug       : 'obici-ot-titan-i-zlato-14k-brilyanti-23mm-i-18mm',
+    oldSlug    : '/Titanium/15TG.html',
+    desc       : 'диаметър - 19мм, ширина -12мм',
+    sku        : '15TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '15tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 958,
+    name       : 'Ръчно изработен пръстен от титан, злато (14k), сребро и брилянти (2 бр.)',
+    id         : '16TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-zlato-14k-srebro-i-brilyanti-2-br',
+    oldSlug    : '/Titanium/16TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '16TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '16tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 1039,
+    name       : 'Ръчно изработена брошка от титан и злато с брилянт (2,2mm-0.04к)',
+    id         : '17TG',
+    slug       : 'ruchno-izrabotena-broshka-ot-titan-i-zlato-s-brilyant-22mm-004k',
+    oldSlug    : '/Titanium/17TG.html',
+    desc       : 'диаметър: 55/45mm',
+    sku        : '17TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '17tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 1159,
+    name       : 'Ръчно изработени обици от титан, злато (14k) и брилянти (2mm)',
+    id         : '18TG',
+    slug       : 'ruchno-izraboteni-obici-ot-titan-zlato-14k-i-brilyanti-2mm',
+    oldSlug    : '/Titanium/18TG.html',
+    desc       : 'диаметър: 35mm',
+    sku        : '18TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '18tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 939,
+    name       : 'Ръчно изработен пръстен от титан и злато (14k) с брилянт',
+    id         : '19TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-zlato-14k-s-brilyant',
+    oldSlug    : '/Titanium/19TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '19TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '19tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 860,
+    name       : 'Ръчно изработен пръстен от титан и злато (14k) със Сапфир-0.20к',
+    id         : '20TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-zlato-14k-sus-sapfir-020k',
+    oldSlug    : '/Titanium/20TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '20TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '20tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 958,
+    name       : 'Ръчно изработен пръстен от титан и злато (14k) с брилянт',
+    id         : '21TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-zlato-14k-s-brilyant',
+    oldSlug    : '/Titanium/21TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '21TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '21tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 760,
+    name       : 'Ръчно изработен пръстен от титан и злато (14k) с брилянти (2 бр.)',
+    id         : '22TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-zlato-14k-s-brilyanti-2-br',
+    oldSlug    : '/Titanium/22TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '22TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '22tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 839,
+    name       : 'Ръчно изработен пръстен от титан и злато (14k) с брилянт',
+    id         : '23TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-zlato-14k-s-brilyant',
+    oldSlug    : '/Titanium/23TG.html',
+    desc       : '- SI 1-0.04 к F/G',
+    sku        : '23TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '23tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 460,
+    name       : 'Ръчно изработени халки от титан и злато (14к)',
+    id         : '25TG',
+    slug       : 'ruchno-izraboteni-halki-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/25TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '25TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '25tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 460,
+    name       : 'Ръчно изработени халки от титан и злато (14к )',
+    id         : '26TG',
+    slug       : 'ruchno-izraboteni-halki-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/26TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '26TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '26tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 789,
+    name       : 'Ръчно изработени халки от титан и злато (14k)',
+    id         : '27TG',
+    slug       : 'ruchno-izraboteni-halki-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/27TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '27TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '27tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 762,
+    name       : 'Ръчно изработен пръстен от титан и злато (14k) с три брилянта',
+    id         : '28TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-zlato-14k-s-tri-brilyanta',
+    oldSlug    : '/Titanium/28TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '28TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '28tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 490,
+    name       : 'Ръчно изработен пръстен от титан и злато (14k)',
+    id         : '29TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/29TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '29TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '29tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 689,
+    name       : 'Ръчно изработен пръстен: - титан - бяло и жълто злато (14k), - сребро - брилянт 0,03 ct, VS, F/G',
+    id         : '30TG',
+    slug       : 'ruchno-izraboten-prusten-titan-byalo-i-zhulto-zlato-14k-srebro-brilyant-003-ct-vs-fg',
+    oldSlug    : '/Titanium/30TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '30TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '30tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 579,
+    name       : 'Ръчно изработен пръстен: - титан - злато (14k) - брилянт 0,02 ct, VS, F/G',
+    id         : '31TG',
+    slug       : 'ruchno-izraboten-prusten-titan-zlato-14k-brilyant-002-ct-vs-fg',
+    oldSlug    : '/Titanium/31TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '31TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '31tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 739,
+    name       : 'Ръчно изработен пръстен: - титан - злато (14k) - брилянт 0,03 ct, VS, F/G',
+    id         : '32TG',
+    slug       : 'ruchno-izraboten-prusten-titan-zlato-14k-brilyant-003-ct-vs-fg',
+    oldSlug    : '/Titanium/32TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '32TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '32tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 859,
+    name       : 'Ръчно изработен пръстен от титан и злато (14k) със сапфир',
+    id         : '33TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-zlato-14k-sus-sapfir',
+    oldSlug    : '/Titanium/33TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '33TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '33tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 798,
+    name       : 'Ръчно изработени обици от титан и злато (14k) - диаманти-0.06 к VS-FG',
+    id         : '34ETG',
+    slug       : 'ruchno-izraboteni-obici-ot-titan-i-zlato-14k-diamanti-006-k-vs-fg',
+    oldSlug    : '/Titanium/34ETG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '34ETG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '34etg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 489,
+    name       : 'Ръчно изработен пръстен от титан и бяло злато (14k) - диамант -0.04 к-SI-FG',
+    id         : '35TG',
+    slug       : 'ruchno-izraboten-prusten-ot-titan-i-byalo-zlato-14k-diamant-004-k-si-fg',
+    oldSlug    : '/Titanium/35TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '35TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '35tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 1258,
+    name       : 'Пръстен от титан и злато (14k)',
+    id         : '36TG',
+    slug       : 'prusten-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/36TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '36TG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '36tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 190,
+    name       : 'обица от титан и злато (14k)',
+    id         : '37ЕTG',
+    slug       : 'obica-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/37ERTG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '37ЕTG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '37etg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 980,
+    name       : 'хапки от титан,злато и сребро',
+    id         : '38RTG',
+    slug       : 'hapki-ot-titanzlato-i-srebro',
+    oldSlug    : '/Titanium/38RTG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '38RTG',
+    category   : 'bijuta ot titan i zlato',
     attributes : null,
-    image      : ''
+    image      : '38rtg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 679,
+    name       : 'Ръчно изработени брачни халки от титан и злато (14к )',
+    id         : '1TG',
+    slug       : 'ruchno-izraboteni-brachni-halki-ot-titan-i-zlato-14k',
+    oldSlug    : '/Wedding%20rings/1WTG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '1TG',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '1tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 679,
+    name       : 'Ръчно изработени брачни халки от титан и злато (14к)',
+    id         : '1TG',
+    slug       : 'ruchno-izraboteni-brachni-halki-ot-titan-i-zlato-14k',
+    oldSlug    : '/Wedding%20rings/1WTG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '1TG',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '1tgBH.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 880,
+    name       : 'Ръчно изработени брачни халки от титан и злато (14k )- 880 лв -чифт',
+    id         : '24TG',
+    slug       : 'ruchno-izraboteni-brachni-halki-ot-titan-i-zlato-14k-880-lv-chift',
+    oldSlug    : '/Wedding%20rings/24WTG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '24TG',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '24tgBH.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 460,
+    name       : 'Ръчно изработени брачни халки от титан и злато (14k) Цена: 460лв-чифт',
+    id         : '25TG',
+    slug       : 'ruchno-izraboteni-brachni-halki-ot-titan-i-zlato-14k-cena-460lv-chift',
+    oldSlug    : '/Wedding%20rings/25WTG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '25TG',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '25tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 460,
+    name       : 'Ръчно изработени брачни халки от титан и злато (14к )',
+    id         : '26TG',
+    slug       : 'ruchno-izraboteni-brachni-halki-ot-titan-i-zlato-14k',
+    oldSlug    : '/Wedding%20rings/26WTG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '26TG',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '26tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 789,
+    name       : 'Брачни халки от титан и злато (14k) Цена: 789 лв. -чифт',
+    id         : '27TG',
+    slug       : 'brachni-halki-ot-titan-i-zlato-14k-cena-789-lv-chift',
+    oldSlug    : '/Wedding%20rings/27WTG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '27TG',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '27tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 460,
+    name       : 'Сватбените халки от Титан могат да бъдат изработени с жълто или бяло злато. . Цена - 460 лв. двете',
+    id         : '28TGW',
+    slug       : 'svatbenite-halki-ot-titan-mogat-da-budat-izraboteni-s-zhulto-ili-byalo-zlato-cena-460-lv-dvete',
+    oldSlug    : '/Wedding%20rings/Large/titanium/Wedding.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '28TGW',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '28tgw.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : null,
+    name       : 'Брачни халки от бяло злато (14к)',
+    id         : '1WR',
+    slug       : 'brachni-halki-ot-byalo-zlato-14k',
+    oldSlug    : '/Wedding%20rings/Large/Wedding1.html',
+    desc       : 'Сватбените халки могат да бъдат изработени в жълто или комбинация от бяло и жълто злато(със или без брилянти). - брилянти (6-бр.),SI, F/G - грамажа на брачните халки може варира в зависимост от ширината и размера( обиколка )от 14 до18 грама двете цена за работа 650лв +1 брилянт (0.03ct) ,SI, F/G-85лв . Цена за работа без бриланти в един цвят- 350лв',
+    sku        : '1WR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '1wr.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : null,
+    name       : 'Брачни халки от бяло и жълто злато (14к)',
+    id         : '2WR',
+    slug       : 'brachni-halki-ot-byalo-i-zhulto-zlato-14k',
+    oldSlug    : '/Wedding%20rings/Wedding_gold.html',
+    desc       : '- дамската халка е с брилянт (0.03ct),SI, F/G - грамажа на брачните халки може варира в зависимост от ширината и размера( обиколка )от 14 до18 грама двете цена за работа 450лв + брилянт (0.03ct) 85лв',
+    sku        : '2WR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '2wr.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : null,
+    name       : 'Сватбени халки от бяло злато (14к)',
+    id         : '3WR',
+    slug       : 'svatbeni-halki-ot-byalo-zlato-14k',
+    oldSlug    : '/Wedding%20rings/Large/Wedding3.html',
+    desc       : 'Сватбените халки могат да бъдат изработени от жълто или комбинация от бяло и жълто злато. грамажа на брачните халки може варира в зависимост от ширината и размера( обиколка )от 14 до18 грама двете Цена за работа в комбинация от бяло и жълто-650лв . Цена за работа в един цвят- 450лв',
+    sku        : '3WR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '3wr.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : null,
+    name       : 'Сватбени халки с релефни текстури',
+    id         : '4WR',
+    slug       : 'svatbeni-halki-s-relefni-teksturi',
+    oldSlug    : '/Wedding%20rings/Large/Wedding4.html',
+    desc       : 'Сватбените халки могат да бъдат изработени от жълто, бяло или комбинация от бяло и жълто злато.  Цена за работа в комбинация от бяло и жълто-550лв . Цена за работа в един цвят- 350лв. Грамажа на брачните халки може варира в зависимост от ширината и размера( обиколка )от 12 до18 грама двете. Ако имате интересна идея за дизайна на вашите сватбени халки, с наша помощ бихте могли да я осъществите.  Крайната цена зависи от грамажа и цената на златото в момента на поръчката . Ако халките са изработени със злато на клиента се заплаща само работата.  За повече информация моля звънете на GSM 0888 588 968 или пишете на itomo@abv.bg',
+    sku        : '4WR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '4wr.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : null,
+    name       : 'Сватбени халки от бяло злато (14к)',
+    id         : '5WR',
+    slug       : 'svatbeni-halki-ot-byalo-zlato-14k',
+    oldSlug    : '/Wedding%20rings/Large/Wedding5.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '5WR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '5wr.jpg'
+},
+// No9 (S dobaveno ime)
+{
+    price      : null,
+    name       : 'Сватбени халки',
+    id         : '6WR',
+    slug       : 'svatbeni-halki',
+    oldSlug    : '/Wedding%20rings/Large/Wedding6.html',
+    desc       : 'Сватбените халки могат да бъдат изработени от жълто или комбинация от бяло и жълто злато. грамажа на брачните халки може варира в зависимост от ширината и размера( обиколка )от 8 до15 грама двете Цена за работа в комбинация от бяло и жълто-650лв . Цена за работа в един цвят- 450лв. Крайната цена зависи от грамажа и цената на златото в момента на поръчката . Ако сватбените халки са изработени със злато на клиента се заплаща само работата.',
+    sku        : '6WR',
+    category   : 'dizainerski brachni halki',
+    attributes : null,
+    image      : '6wr.jpg'
+},
+// No9 (S dobaveno ime)
+{
+    price      : null,
+    name       : 'Сватбени халки1',
+    id         : '7WR',
+    slug       : 'svatbeni-halki1',
+    oldSlug    : '/Wedding%20rings/Large/Wedding7.html',
+    desc       : 'Сватбените халки могат да бъдат изработени от жълто или комбинация от бяло и жълто злато. грамажа на брачните халки може варира в зависимост от ширината и размера( обиколка )от 11 до15 грама двете Цена за работа в комбинация от бяло и жълто-500лв . Цена за работа в един цвят- 350лв. Крайната цена зависи от грамажа и цената на златото в момента на поръчката . Ако сватбените халки са изработени със злато на клиента се заплаща само работата.',
+    sku        : '7WR',
+    category   : 'dizainerski brachni halki',
+    attributes : null,
+    image      : '7wr.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 379,
+    name       : 'Годежен пръстен от бяло злато(14k)',
+    id         : '3GL',
+    slug       : 'godezhen-prusten-ot-byalo-zlato14k',
+    oldSlug    : '/Wedding%20rings/engagement1.html',
+    desc       : '- брилянт VS-F (0.03k) По поръчка може да се изработи с камък по избор',
+    sku        : '3GL',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '3gl.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
+    price      : null,
+    name       : 'Годежен пръстен от бяло и жълто злато (14к)',
+    id         : '6GL',
+    slug       : 'godezhen-prusten-ot-byalo-i-zhulto-zlato-14k',
     oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    desc       : '- брилянт (0,25ct),SI, F/G - цена: 1189 лв (цената на пръстен само в един цвят, бяло или жълто злато, е с 49 лв. по-ниска)',
+    sku        : '6GL',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '6gl.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 745,
+    name       : 'Годежен пръстен от бяло и жълто злато (14к)',
+    id         : '7GL',
+    slug       : 'godezhen-prusten-ot-byalo-i-zhulto-zlato-14k',
+    oldSlug    : '/Wedding%20rings/engagement3.html',
+    desc       : 'естествен рубин и брилянт-VS/FG-0.02k По поръчка може да се изработи с камъни по избор',
+    sku        : '7GL',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '7gl.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : null,
+    name       : 'Годежен пръстен от бяло злато (14к)',
+    id         : '8EGR',
+    slug       : 'godezhen-prusten-ot-byalo-zlato-14k',
+    oldSlug    : '/Wedding%20rings/engagement4.html',
+    desc       : '- с брилянти (0,15ct),SI, F/G - цена: 639лв - с брилянти (0,15ct),VS,F/G - цена: 729лв - с брилянти (0,15ct),VVS,F/G - цена: 869 лв',
+    sku        : '8EGR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '8EGR.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 380,
+    name       : 'годежни пръстени с диаманнти',
+    id         : '9ЕGR',
+    slug       : 'godezhni-prusteni-s-diamannti',
+    oldSlug    : '/Wedding%20rings/engagement/engagement-5.html',
+    desc       : 'Годежен пръстен от бяло злато 14 к - цена- 380 лв  диамант - SI, G - 0.03к  Моделът може да се изработи и с по-големи диаманти  Годежните пръстени се изработват от жълто, бяло или комбинация от бяло и жълто злато.     .  За повече информация моля звънете на GSM 0888 588 968 или пишете на itomo@abv.bg',
+    sku        : '9ЕGR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '9ЕGR.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : null,
+    name       : 'Сватбени халки с релефни надписи',
+    id         : '1LR',
+    slug       : 'svatbeni-halki-s-relefni-nadpisi',
+    oldSlug    : '/rings2/large/letterrings.html',
+    desc       : 'Халките които виждате са примерни модели. Могат да бъдат изработени от злато ,сребро или комбинация от титан и злато.  халки от сребро- цена 310 лв чифт  златни халки - 500 лв за работа + цената на златото като материал в 14 к (по борсови цени в момента на поръчката) . Ако поръчката е със злато на клиента се заплаща само изработката.  За повече информация моля звънете на GSM 0888 588 968 или пишете на itomo@abv.bg',
+    sku        : '1LR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '1lr.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : null,
+    name       : 'Класически брачни халки',
+    id         : '1KWR',
+    slug       : 'svatbeni-halki-s-relefni-nadpisi',
+    oldSlug    : '/Wedding%20rings/weddingstandart.html',
+    desc       : 'При поръчка със злато на ателието- 87 лв за грам (включва изработката) .  При поръчка със злато на клиента- цена за изработка - 25 лв на грам',
+    sku        : '1KWR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '1kwr.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : null,
+    name       : 'Сватбени халки от бяло злато (14к)',
+    id         : '3WR',
+    slug       : 'svatbeni-halki-ot-byalo-zlato-14k',
+    oldSlug    : '/Wedding%20rings/Large/Wedding3.html',
+    desc       : 'Сватбените халки могат да бъдат изработени от жълто или комбинация от бяло и жълто злато. грамажа на брачните халки може варира в зависимост от ширината и размера( обиколка )от 14 до18 грама двете Цена за работа в комбинация от бяло и жълто-650лв . Цена за работа в един цвят- 450лв',
+    sku        : '3WR',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '3wr.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
+    price      : 1258,
+    name       : 'Пръстен от титан и злато (14k)',
+    id         : '36TG',
+    slug       : 'prusten-ot-titan-i-zlato-14k',
+    oldSlug    : '/Titanium/36TG.html',
     desc       : '',
-    sku        : '',
-    category   : '',
+    sku        : '36TG',
+    category   : 'dizainerski brachni halki',
     attributes : null,
-    image      : ''
+    image      : '36tg.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      :  2509,
+    name       : 'СРЕБЪРЕН РЪЧЕН ЧАСОВНИК',
+    id         : '1CH',
+    slug       : 'sreburen-ruchen-chasovnik',
+    oldSlug    : '/watch/watches.htm',
+    desc       : 'Корпус: сребро и злато с инкрустиран брилянт Циферблат: сребро, злато и 1бр. брилянт на 12h Капак от титан Швейцарски кварцов механизъм " ETA" със седем камъка (18 месеца гаранция) Верижка: ръчно изработена от телешка кожа със сребърна закопчалка Сапфирено стъкло Водоустойчив',
+    sku        : '1CH',
+    category   : 'sreburni chasovnici',
     attributes : null,
-    image      : ''
+    image      : '1ch.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
+    price      : 2313,
+    name       : 'ЧАСОВНИК КОЛИЕ',
+    id         : '2CH',
+    slug       : 'chasovnik-kolie',
+    oldSlug    : '/watch/watches_2.htm',
+    desc       : 'Корпус: сребро и злато с инкрустиран брилянт Циферблат: сребро, злато и 4бр. брилянти Швейцарски кварцов механизъм "ETA" със седем камъка (18 месеца гаранция) Сребърен капак Сапфирено стъкло Водоустойчив',
+    sku        : '2CH',
+    category   : 'sreburni chasovnici',
     attributes : null,
-    image      : ''
+    image      : '2ch.jpg'
 },
 // No9
 {
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
+    price      : 1280,
+    name       : 'пръстен "компас"- бяло и жълто злато 12 гр(14k)',
+    id         : '19GL',
+    slug       : 'prusten-kompas-byalo-i-zhulto-zlato-12-gr14k',
+    oldSlug    : '/Gold/19GL.html',
+    desc       : 'при въртене на малкото зъбно колело стрелката се върти - брилянти - 0,04ct и 0,02ct SI-F/G',
+    sku        : '19GL',
     category   : '',
     attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
-},
-// No9
-{
-    price      : ,
-    name       : '',
-    id         : '',
-    slug       : '',
-    oldSlug    : '',
-    desc       : '',
-    sku        : '',
-    category   : '',
-    attributes : null,
-    image      : ''
+    image      : '19gl.jpg'
 },
 // No9
 {
