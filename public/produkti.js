@@ -6,7 +6,7 @@ const products = [
         name       : 'Сребърна мъжка гривна с кожа',
         id         : '20GRV',
         slug       : 'sreburna-mujka-grivna-s-koja',
-        oldSlug    : '/large/20grv.html',
+        oldSlug    : '/large/20grv.html', 
         desc       : '',
         sku        : '20GRV',
         category   : 'sreburni grivni',
@@ -1198,12 +1198,12 @@ const products = [
 },
 // No9
 {
-    price      : null,
+    price      : 719,
     name       : 'Златен пръстен - бяло и жълто злато (14k):',
     id         : '13GL',
     slug       : 'zlaten-prusten-byalo-i-zhulto-zlato-14k',
-    oldSlug    : '/Gold/13GL.html',
-    desc       : '-син топаз и брилянт 0,1ct- SI2 H - цена: 719 лв - сапфир и брилянт0,1ct- SI2 H- цена:789 лв (цената на пръстена може да варира според качеството и вида на камъка )',
+    oldSlug    : 'Gold/13GL.html',
+    desc       : '-син топаз и брилянт 0,1ct - SI2 H - цена: 719 лв- сапфир и брилянт0,1ct- SI2 H- цена:789 лв (цената на пръстена може да варира според качеството и вида на камъка )',
     sku        : '13GL',
     category   : 'zlatni bizhuta',
     attributes : null,
@@ -1235,7 +1235,7 @@ const products = [
     attributes : null,
     image      : '15gl.jpg'
 },
-// No9
+// No16
 {
     price      : 749,
     name       : 'Златно колие Лилия (висулка) 3',
@@ -1248,7 +1248,7 @@ const products = [
     attributes : null,
     image      : '17gl.jpg'
 },
-// No9
+// No17
 {
     price      : 769,
     name       : 'Златен пръстен с Танзанит',
@@ -1261,7 +1261,7 @@ const products = [
     attributes : null,
     image      : '18gl.jpg'
 },
-// No9
+// No18
 {
     price      : 469,
     name       : 'Златен пръстен с Цитрин',
@@ -1274,7 +1274,7 @@ const products = [
     attributes : null,
     image      : '20gl.jpg'
 },
-// No9
+// No1
 {
     price      : 488,
     name       : 'Ръчно изработено сребърно колие с масивен синджир (58см)',
