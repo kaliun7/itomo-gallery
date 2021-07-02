@@ -11,16 +11,17 @@ function CategoryPage({ category }) {
   return (
     <div>
       <h1>
-        <img width={500} src={category.img} />
+        {category.}
       </h1>
-      All Products in this category:
-      <ul>
+      {category.desc}
+        <ul>
         {category.products.map((product) => {
           return (
             <li key={product.slug}>
               <Link href={`/${product.slug}/product`}>
                 <a>{product.name}</a>
               </Link>
+
             </li>
           );
         })}
