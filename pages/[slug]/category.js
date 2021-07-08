@@ -34,8 +34,8 @@ function CategoryPage({ category }) {
  */
 CategoryPage.getInitialProps = ({ query }) => {
   // get the array with the categories
-  const categories = require("../../public/categories.json");
-  const products = require("../../public/products.json");
+  const categories = require("../../categories.json");
+  const products = require("../../products.json");
 
   const category = categories.find(
     // check if the current product's slug
