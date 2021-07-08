@@ -25,7 +25,7 @@ function Home({ categories }) {
 
 Home.getInitialProps = () => {
   return {
-    categories: require("../public/categories.json"),
+    categories: require("../categories.json"),
   };
 };
 

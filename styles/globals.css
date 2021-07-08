@@ -19,7 +19,26 @@ a {
 .container {
   max-width: 800px;
   background-color: #fff;
-  border: 20px solid rgb(233, 206, 206);
+  border: 10px solid rgb(235, 216, 216);
+  position: relative;
   margin: 0 auto;
   margin-top: 40px;
+  
 }
+
+.container:before {
+  position: absolute;
+  display: block;
+  content: '';
+  border: 6px solid rgb(114, 94, 94);
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+
+
+
+

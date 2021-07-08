@@ -1,3 +1,4 @@
+import { loadGetInitialProps } from "next/dist/next-server/lib/utils";
 import { useRouter } from "next/router";
 import styles from '../../styles/Product.module.css'
 
@@ -10,10 +11,20 @@ function ProductPage({ product }) {
 
   return (
     <div className={styles.container}>
-      <img src={product.image} alt={product.name} />
-      <h1>{product.name}</h1>
-      <div className={styles.price}>{product.price}</div>
+      <div className={styles.flex}>
+        <div className={styles.button}><button type="button">GO BACK?</button></div>
+        <div className={styles.img}><img src={product.image} alt={product.name} /></div>
+      </div>
+      <div className={styles.name}><h1>{product.name}</h1></div>
+      <div className={styles.flex}>
+        <div className={styles.price}>{product.price} </div>
+        <div className={styles.sku}>{product.sku}</div>
+      </div>
+      
+     
     </div>
+
+
   );
 }
 
@@ -22,7 +33,7 @@ function ProductPage({ product }) {
  */
 ProductPage.getInitialProps = ({ query }) => {
   // get the array with the products
-  const products = require("../../public/products.json");
+  const products = require("../../products.json");
 
   const product = products.find(
     // check if the current product's slug
@@ -30,7 +41,7 @@ ProductPage.getInitialProps = ({ query }) => {
     (currentProduct) => currentProduct.slug.trim() === query.slug.trim()
   );
 
-  if(!product) return {};
+  if (!product) return {};
 
   // pass the product to the page
   return {
