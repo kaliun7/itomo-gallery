@@ -20,8 +20,7 @@ function CategoryPage({ category }) {
             <li key={product.slug}>
               <Link href={`/${product.slug}/product`}>
                 <a>{product.name}</a>
-              </Link>
-
+              </Link> 
             </li>
           );
         })}
