@@ -1558,26 +1558,27 @@
     "attributes": null,
     "image": "32kl.jpg"
   },
+  
   {
-    "price": [
-      96,
-      51
-    ],
+    "price": 96,
     "name": "Сребърно колие с емайли от лазурит",
-    "id": [
-      "34",
-      "33KL"
-    ],
+    "id": "34",
     "slug": "sreburno-kolie-s-emajli-ot-lazurit",
     "oldSlug": "/large/largekl/kl33.html",
-    "desc": [
-      "Размер: 32/32 мм",
-      "Размер: 19/19 мм"
-    ],
-    "sku": [
-      "34",
-      "33KL"
-    ],
+    "desc": "Размер: 32/32 мм",
+    "sku": "34",
+    "category": "sreburni kolieta",
+    "attributes": null,
+    "image": "34i33kl.jpg"
+  },
+  {
+    "price": 51,
+    "name": "Сребърно колие с емайли от лазурит (смален вариант)",
+    "id": "33KL",
+    "slug": "sreburno-kolie-s-emajli-ot-lazurit-smalen-variant",
+    "oldSlug": "/large/largekl/kl33.html",
+    "desc": "Размер: 19/19 мм",
+    "sku": "33KL",
     "category": "sreburni kolieta",
     "attributes": null,
     "image": "34i33kl.jpg"

@@ -1,13 +1,10 @@
  /* Css za produktovata stranica */
 .container { 
-  max-width: 80000px;
-  height: 500px;
-  margin: 0 auto;
-  margin-top: 100px;
+  /* height: 520px; */
+  margin: 20px;
   padding: 20px;
   display: flex;
   flex-direction: column;
-  /* display: inline-block; */ 
 }
 
 .name {
@@ -29,12 +26,15 @@
   color: rgb(100, 30, 45);
   font-size: 20px;
   padding-right: 50px;
+  font-weight: bold;
+  
  
  }
  
 .price {
   font-size: 22px;
   padding-left: 50px;
+  font-weight: bold;
 }
 
 
@@ -54,7 +54,16 @@ justify-content: space-between;
   padding-left: 50px;
 }
 
-
+.previous {
+  background-color: rgb(114, 94, 94);
+  width: fit-content;
+  display:inline;
+    border-style:solid;
+    border-color:rgb(255, 255, 255);
+    padding: 10px 50px;
+    border: 3px double rgb(182, 78, 78);
+    font-weight: bold;
+}
 
 
 

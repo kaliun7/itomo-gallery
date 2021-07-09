@@ -1,1 +1,17 @@
 /* css za kategoriinata stranica */
+.ul {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   
+} 
+
+
+.li {
+    width: 33%;
+}
+
+.img {
+    width: 100%;
+}

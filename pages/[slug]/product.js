@@ -1,6 +1,7 @@
 import { loadGetInitialProps } from "next/dist/next-server/lib/utils";
 import { useRouter } from "next/router";
-import styles from '../../styles/Product.module.css'
+import styles from "../../styles/Product.module.css";
+import { formatProduct } from "../../utils";
 
 function ProductPage({ product }) {
   const router = useRouter();
@@ -11,20 +12,26 @@ function ProductPage({ product }) {
 
   return (
     <div className={styles.container}>
-      <div className={styles.flex}>
-        <div className={styles.button}><button type="button">GO BACK?</button></div>
-        <div className={styles.img}><img src={product.image} alt={product.name} /></div>
+             <img src='/images/logo.jpg' alt={product.name} />
+        <a href="/sreburni-prusteni/category" class={styles.previous}>
+         назад
+        </a>
+        
+        <a href="#" class="previous round">
+        </a>
+        <div className={styles.img}>
+          <img src={product.image} alt={product.name} />
+   
+        
       </div>
-      <div className={styles.name}><h1>{product.name}</h1></div>
+      <div className={styles.name}>
+        <h1>{product.name}</h1>
+      </div>
       <div className={styles.flex}>
         <div className={styles.price}>{product.price} </div>
         <div className={styles.sku}>{product.sku}</div>
       </div>
-      
-     
     </div>
-
-
   );
 }
 
@@ -45,11 +52,7 @@ ProductPage.getInitialProps = ({ query }) => {
 
   // pass the product to the page
   return {
-    product: {
-      ...product,
-      price: product.price.toFixed(2) + " лв",
-      image: `/images/${product.image.trim()}`
-    },
+    product: formatProduct(product),
   };
 };
 

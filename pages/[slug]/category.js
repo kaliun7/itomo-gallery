@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { formatProduct } from "../../utils";
+import styles from "../../styles/Category.module.css";
 
 function CategoryPage({ category }) {
   if (!category) {
@@ -11,16 +13,17 @@ function CategoryPage({ category }) {
   return (
     <div>
       <h1>
-        {category.}
+        {category.name}
       </h1>
       {category.desc}
-        <ul>
+        <ul className={styles.ul}>
         {category.products.map((product) => {
           return (
-            <li key={product.slug}>
+            <li className={styles.li} key={product.slug}>
               <Link href={`/${product.slug}/product`}>
                 <a>{product.name}</a>
               </Link> 
+              <article> <img className={styles.img} src={product.image} alt={product.name} /></article>
             </li>
           );
         })}
@@ -51,7 +54,7 @@ CategoryPage.getInitialProps = ({ query }) => {
       ...category,
       products: products.filter(
         (product) => minify(product.category) === minify(category.id)
-      ),
+      ).map(formatProduct),
       img: `/images/category-images/${category.img.trim()}`,
     },
   };
