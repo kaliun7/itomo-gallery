@@ -1,20 +1,24 @@
+// tyk se namira vsi4ko ob6to mejdy vsi4ki stranici 
 import "../styles/globals.css";
 import categories from "../categories.json";
 
 function MyApp({ Component, pageProps }) {
   return (
     <div>
-      <header>
-        <nav>
+      <header className="header-wrap">
+       
+      </header>
+      <nav>
+          <div className="opakovkaNaNav">
           <ul>
             <li>
-              <a className="menu" href="">Начало</a>
+              <a className="menu" href="http://localhost:3000/">Начало</a>
             </li>
             <li>
-              <a className="menu" href="">За нас</a>
+              <a className="menu" href="http://localhost:3000/zanas">За нас</a>
             </li>
             <li>
-              <a className="menu" href="">Контакт</a>
+              <a className="menu" href="http://localhost:3000/contact">Контакт</a>
               <div class="dropdown">
                 <button className="dropbtn">Категории</button>
                 <div className="dropdown-content">
@@ -27,9 +31,9 @@ function MyApp({ Component, pageProps }) {
               </div>
             </li>
           </ul>
+          </div>
         </nav>
-      </header>
-      <main className="container">
+      <main >
         <Component {...pageProps} />
       </main>
       <footer>

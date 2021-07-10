@@ -6,6 +6,7 @@ function Home({ categories }) {
 
   return (
     <div className={styles.asdasd}>
+      <img className="glavnaKartinka" src='/images/kartinka.jpg'></img>
       <h1>Homepage</h1>
       <p>All categories</p>
       <ul>

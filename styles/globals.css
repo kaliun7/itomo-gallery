@@ -38,6 +38,7 @@ a {
   pointer-events: none;
 }
 
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -97,4 +98,21 @@ a {
 
 .menu {
   color: #572626;
+}
+
+.glavnaKartinka {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.opakovkaNaNav {
+  max-width: 100%;
+  background-color: #411b1b;
+}
+
+.header-wrap {
+  height: 300px;
+  background-color: #998181;
 }
