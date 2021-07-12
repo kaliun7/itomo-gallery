@@ -6,7 +6,9 @@ function Home({ categories }) {
 
   return (
     <div className={styles.asdasd}>
-      <img className="glavnaKartinka" src='/images/kartinka.jpg'></img>
+      <img className={styles.glavnaKartinka} src='/images/kartinka.jpg'></img>
+      {/* <img className={styles.background} src='/images/бацкгроунд.jpg'></img> */}
+      <div className={styles.kutiq}><div className={styles.categoryPanel}></div></div>
       <h1>Homepage</h1>
       <p>All categories</p>
       <ul>

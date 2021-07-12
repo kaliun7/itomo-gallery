@@ -2,3 +2,29 @@
 .container  {
   max-width: 1000px;
 }
+
+.glavnaKartinka {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.background {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+kutiq {
+  display: flex;
+  width: 400px;
+  height: 500px;
+  background-color: aqua;
+}
+
+/* .categoryPanel {
+  display: flex;
+
+} */
