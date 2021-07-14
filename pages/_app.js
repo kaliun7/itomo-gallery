@@ -6,19 +6,19 @@ function MyApp({ Component, pageProps }) {
   return (
     <div>
       <header className="header-wrap">
-       
+        <a className="phoneNum">Tel: 0877228114</a>
       </header>
       <nav>
           <div className="opakovkaNaNav">
           <ul>
             <li>
-              <a className="menu" href="http://localhost:3000/">Начало</a>
+            <button className="menu"><a href="http://localhost:3000/">Начало</a></button>
             </li>
             <li>
-              <a className="menu" href="http://localhost:3000/zanas">За нас</a>
+            <button className="menu"><a href="http://localhost:3000/zanas">За нас</a></button>
             </li>
             <li>
-              <a className="menu" href="http://localhost:3000/contact">Контакт</a>
+            <button className="menu"><a href="http://localhost:3000/contact">Контакт</a></button>
               <div class="dropdown">
                 <button className="dropbtn">Категории</button>
                 <div className="dropdown-content">

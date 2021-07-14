@@ -17,11 +17,33 @@
   width: 50%;
 }
 
-kutiq {
+.kutiq {
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
   display: flex;
-  width: 400px;
-  height: 500px;
-  background-color: aqua;
+  width: 60%;
+  height: 800px;
+  background-color: none(255, 255, 255);
+  justify-content: space-between;
+}
+
+.categoryPanel {
+  width: 30%;
+  height: 150px;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  
+  
+}
+
+.image1 {
+  position: absolute;
+  margin-left: 180px;
+  height: auto;
+  width: 150px;
+
 }
 
 /* .categoryPanel {

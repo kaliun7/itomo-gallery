@@ -62,7 +62,7 @@ a {
   background-color: #311616;
   color: white;
   padding: 16px;
-  font-size: 16px;
+  font-size: 15px;
   border: none;
 }
 
@@ -87,30 +87,38 @@ a {
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+/* .dropdown-content a:hover {background-color: rgb(221, 221, 221);} */
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #301515;}
+.dropdown:hover .dropbtn {background-color: #5f173f;}
 
 
 .dropdown-content .pada6tiTextove:hover {
-  background-color: #572626;
+  background-color: #ffffff;
 }
 
+.menu:hover {background-color: #5f173f;}
+
+
 .menu {
+  background-color: #411b1b;
   color: #ffffff;
+  height: 50px;
+  text-decoration: none;
+  border: none;
 }
 
 
 
 .opakovkaNaNav {
+  height: 50px;
   max-width: 100%;
   background-color: #411b1b;
 }
 
 .header-wrap {
-  height: 150px;
+  height: 40px;
   background-color: #998181;
   background-image: url(/icons/tekstura.jpg);
 }
@@ -120,4 +128,10 @@ a {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.phoneNum {
+
+  padding-left: 40px;
+  color: rgb(164, 233, 233);
 }

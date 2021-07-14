@@ -1,0 +1,10 @@
+.asdasd {
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    text-align: center;
+    width: 50%;
+    color: aqua;
+}

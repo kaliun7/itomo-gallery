@@ -8,7 +8,18 @@ function Home({ categories }) {
     <div className={styles.asdasd}>
       <img className={styles.glavnaKartinka} src='/images/kartinka.jpg'></img>
       {/* <img className={styles.background} src='/images/бацкгроунд.jpg'></img> */}
-      <div className={styles.kutiq}><div className={styles.categoryPanel}></div></div>
+      <div className={styles.kutiq}>
+        <div className={styles.categoryPanel}><img className={styles.image1} src='/images/17grv.jpg'></img><h1><p>Сребърни</p><p>гривни</p>
+         </h1></div>
+        <div className={styles.categoryPanel}><img className={styles.image1} src='/images/17pr.jpg'></img></div>
+        <div className={styles.categoryPanel}></div>
+        <div className={styles.categoryPanel}></div>
+        <div className={styles.categoryPanel}></div>
+        <div className={styles.categoryPanel}></div>
+        <div className={styles.categoryPanel}></div>
+        <div className={styles.categoryPanel}></div>
+        <div className={styles.categoryPanel}></div>
+      </div>
       <h1>Homepage</h1>
       <p>All categories</p>
       <ul>
