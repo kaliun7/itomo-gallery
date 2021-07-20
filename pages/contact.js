@@ -7,7 +7,10 @@ function Contact({ categories }) {
   return (
     <div >
     <img className="glavnaKartinka" src='/images/kartinka.jpg'></img>
+    <img className="glavnaKartinka" src='/images/kartazacontakt.jpg'></img>
     </div>
+    
+   
   );
 }
 

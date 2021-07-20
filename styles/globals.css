@@ -133,5 +133,7 @@ a {
 .phoneNum {
 
   padding-left: 40px;
-  color: rgb(164, 233, 233);
+  color: #ffffff;
 }
+
+.phoneNum:hover {color: #ff32a3;}

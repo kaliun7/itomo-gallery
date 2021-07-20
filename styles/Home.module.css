@@ -10,13 +10,6 @@
   width: 50%;
 }
 
-.background {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 .kutiq {
   margin-top: 90px;
   margin-left: auto;
@@ -27,6 +20,7 @@
   height: 800px;
   background-color: none(255, 255, 255);
   justify-content: space-between;
+  background-image: url("бацкгроунд.jpg");
 }
 
 .categoryPanel {
@@ -34,8 +28,15 @@
   height: 150px;
   border-radius: 5px;
   background-color: rgb(255, 255, 255);
-  
-  
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.categoryPanel:hover {color:#5f173f}
+
+.name {
+  color: aqua;
 }
 
 .image1 {
@@ -44,6 +45,18 @@
   height: auto;
   width: 150px;
 
+}
+
+.BackgroundFlex {
+position: absolute;
+}
+
+.background {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /* .categoryPanel {
