@@ -20,6 +20,7 @@
   height: 800px;
   background-color: none(255, 255, 255);
   justify-content: space-between;
+  background-image: url('../public/images/бацкгроунд.jpg');
 }
 
 .categoryPanel {

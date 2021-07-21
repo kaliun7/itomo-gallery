@@ -38,14 +38,22 @@ function Home({ categories }) {
   return (
     <div className={styles.asdasd}>
       <img className={styles.glavnaKartinka} src='/images/kartinka.jpg'></img>
-      <div className={styles.BackgroundFlex}>
-        <img className={styles.background} src='/images/бацкгроунд.jpg'></img>
+     
         <div className={styles.kutiq}>
           {categories.map((category) => <Link href={`/${category.slug}/category`}>
-            <div className={styles.categoryPanel} >{category.name}</div>
+            <div className={styles.categoryPanel}>{category.name} <Link href={`/${category.slug}/category`}>
+            <div className={styles.categoryPanel}>{category.img}</div>
+          </Link></div>
+          </Link>)}
+          
+        </div>
+        <div className={styles.kutiq}>
+          {categories.map((category) => <Link href={`/${category.slug}/category`}>
+            <div className={styles.categoryPanel}>{category.img}</div>
           </Link>)}
         </div>
-      </div>
+       
+      
       <h1>Homepage</h1>
       <p>All categories</p>
       <ul>
